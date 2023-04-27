@@ -18,7 +18,7 @@ Each bug reports saved in a separate PDF file.
 # Tools 
 - <a href="https://www.testrail.com/">TestRail</a>
 - <a href="https://www.atlassian.com/pl/software/jira">JIRA</a>
-- <a href="https://www.10minutemail.com">https://www.10minutemail.com</a>
+- <a href="https://www.10minutemail.com">10minutemail.com</a>
 # Enviroment
 - Chrome 112.0.5615.138 (64-bit)
 - Windows 11 Home 22H2
